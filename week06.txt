@@ -6,3 +6,13 @@
 
 깃 명령어
 git log --oneline
+
+2교시
+
+리눅스 명령어
+...
+
+깃 명령어
+git fech
+git pull
+
