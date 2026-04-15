@@ -7,3 +7,5 @@ amend 옵션
 
 git commit -m "cloud service....."
 git --amend -m " 클라우드 서비스 7주차 ...."
+
+중간 고사 안내 
